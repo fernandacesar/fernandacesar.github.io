@@ -1,0 +1,155 @@
+body{
+  background-image: url("imagens/back.png");
+  background-repeat: repeat-X;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+  background-color: #e2e2e2;
+}
+.topnav {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  overflow: hidden;
+  background-color: #000000;
+}
+.topnav a {
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgb(66, 217, 255);
+  color: rgb(0, 0, 0);
+}
+
+.topnav a.active {
+  background-color: #fa6afa;
+  color: white;
+}
+.nome{
+  color : #57df9f;
+  font-family: 'Anton', sans-serif;
+  text-align: center;
+  font-size: 28PX;
+}
+
+
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+
+}
+
+ p {
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  /* display: none; */
+  text-align: center;  
+  color: black;
+}
+
+.link{
+  color:#000000;
+}
+
+h2{ 
+  color:#fff;
+} 
+.topo1{
+  margin-left:auto;
+}
+
+.topo2{
+  background-color:#5dffa0;
+  margin-left: 1020px;
+  margin-right: 0px;
+  text-align: justify, center;
+  color: rgb(0, 0, 0);
+  }
+
+  .topo3{
+    background-color:#ffe96e;
+    margin-top: -10px;
+    margin-left: 1020px;
+    text-align: center, justify;
+    color: #000;
+    font-family: 'Roboto Mono', monospace;
+    font-size: x-large;
+  }
+
+  .topo4{
+    background-color:#ffa2c9;
+    margin-top: -10px;
+    margin-left: 1020px;
+    text-align: center, justify;
+    color: #000;
+    font-family: 'Roboto Mono', monospace;
+    font-size: x-large;
+  }
+
+.topo5{
+    background-color:#b6704f;     
+    margin-left: 1020px;
+    text-align: center, justify;
+    color: #000;
+    font-family: 'Roboto Mono', monospace;
+    font-size: x-large;
+} 
+.conteudo{
+    margin-top: -48%;
+  background-color: #fa6afa;
+  margin-bottom: 2%;
+  margin-right: 500px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+.conteudo2{
+  background-color: #31e0ff;
+  margin-bottom: 2%;
+  margin-right: 500px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.conteudo3{
+  background-color: #60ff51;
+  margin-bottom: 2%;
+  margin-right: 500px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.conteudo4{
+  background-color: #ffd753;
+  margin-bottom: 2%;
+  margin-right: 500px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+.conteudo5{
+  background-color: #ff83a8;
+  margin-bottom: 2%;
+  margin-right: 500px;
+  text-align: center;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.footer{
+  background-color: rgb(0, 0, 0);
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: 'Roboto Mono', monospace;
+}*/
+
+.special{
+  color:#000;
+  
+}
+
+/*fazer a foto aumentar e diminuir*/
+.foto
